@@ -11,9 +11,12 @@ email: matt.berteaux@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Trying out a blog, because I need to work on my personal brand
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mattyb678.github.io" # the base hostname & protocol for your site
+url: "http://mattyb.xyz" # the base hostname & protocol for your site
 twitter_username: mattyb678
 github_username:  mattyb678
+strava_athlete_id: 3902437
 
 # Build settings
 markdown: kramdown
+
+permalink: pretty

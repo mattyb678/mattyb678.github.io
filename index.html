@@ -4,20 +4,31 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
+  <p class="intro">Hi! I'm Matt. I figured I should start a blog so that I could "build my personal brand." You can follow me
+    <a class="social_site" target="_blank" href="https://github.com/{{ site.github_username }}">on GitHub</a>,
+    <a class="social_site" target="_blank" href="https://twitter.com/{{site.twitter_username}}">on Twitter</a>, and 
+    <a class="social_site" target="_blank" href="https://www.strava.com/athletes/{{site.strava_athlete_id}}">on Strava</a>.
+    Here goes nothing...
+  </p>
+  
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5%}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
+        <h2 class="post-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% if post.subtitle %}
+        <p class="post-subtitle">{{post.subtitle}}</p>
+        {% endif %}
       </li>
+
+      <hr>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <a class="rss" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+    <i class="fa fa-rss"></i>
+  </a>
 
 </div>

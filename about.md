@@ -3,13 +3,27 @@ layout: page
 title: About
 permalink: /about/
 ---
+# Hey, I'm MattyB
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My real name is Matt Berteaux, but everyone calls me MattyB.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm a programmer, living in Utah. I love learning new languages, frameworks, and paradigms. I'm a full-stack developer, but I do sometimes list a little towards the backend.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+In the last two years, I have also picked up the running bug...hard.
+
+{::options parse_block_html="true" /}
+<div class="img_wrapper">
+  ![Me Running]({{site.base_url}}/assets/images/me.png)
+</div>
+
+This blog will be a mix of programmy and runny thoughts mostly.
+
+My goal is to force myself to be accountable to do cool things.
+
+You can follow me
+    <a class="social_site" target="_blank" href="https://github.com/{{ site.github_username }}">on GitHub</a>,
+    <a class="social_site" target="_blank" href="https://twitter.com/{{site.twitter_username}}">on Twitter</a>, and 
+    <a class="social_site" target="_blank" href="https://www.strava.com/athletes/{{site.strava_athlete_id}}">on Strava</a>.
+
+
+

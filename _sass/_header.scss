@@ -1,0 +1,33 @@
+.logo {
+  height:48px;
+  width:48px;
+  vertical-align: middle;
+}
+
+#header {
+  z-index: 9999;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  display: block;
+  height: 80px;
+  border-bottom: 1px solid $light;
+  background-color: white;
+  nav {
+    float: right;
+    right: 0;
+    padding-top: 1rem;
+    a {
+      text-decoration: none;
+      letter-spacing: 3px;
+      color: $dark;
+      margin-left: 1rem;
+      &:hover {
+        color: $accent;
+      }
+    }
+  }
+  .inner {
+    padding: 1rem 1.5rem;
+  }
+}

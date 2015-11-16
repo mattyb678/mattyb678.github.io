@@ -1,0 +1,21 @@
+.site-footer {
+  border-top: 1px solid $light;
+  margin-top: -50px;
+  height: 18px;
+  padding: 1rem 3rem;
+    .footer_nav {
+      float: right;
+      a {
+        margin-left: 1.5rem;
+        text-decoration: none;
+        color: $dark;
+      }
+    }
+    .copyright {
+      margin: 0;
+      float: left;
+      font-size: .8rem;
+      color: $dark;
+    }
+
+}
