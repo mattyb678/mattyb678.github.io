@@ -96,9 +96,11 @@ The next aid station came and went quickly, only about 3 miles from the previous
 
 All day, I tried not to focus on time. I was thinking that I would be in the 6-7 hour range. My friend David said that I could do 5.5 hours, but I'd need to have a perfect day. After the last aid station, I started focusing on my mileage a lot more; I'd check my watch a few times every mile. It was awful.
 
-I had some major lows during this stretch. I was listening to a [Ginger Runner Live](http://gingerrunner.com/category/gingerrunnerlive/) podcast with Bryon Powell. Bryon's book [Relentless Forward Progress](http://www.amazon.com/Relentless-Forward-Progress-Running-Ultramarathons/dp/1891369903) was one of the books that I read to get some information and guidance about running ultras.
+I had some major lows during this stretch. My stomach was a bit upset, and I was finding it hard to take in food. So, the last 8 miles were done with no nutrition. I think my electrolyetes were off too, because I had a really bad headache.
 
-Bryon was talking about running Hardrock 100. He said that during the low points, you just need to focus on moving forward. As long as you don't stop, you are getting closer to the end. This hit me so hard, my emotions are pretty close to the surface when I run and I was legit tearing up at this point. I just kept telling myself that I just needed to keep moving.
+I was able to find inspiration in a weird place, however. I was listening to a [Ginger Runner Live](http://gingerrunner.com/category/gingerrunnerlive/) podcast with Bryon Powell. Bryon's book [Relentless Forward Progress](http://www.amazon.com/Relentless-Forward-Progress-Running-Ultramarathons/dp/1891369903) was one of the books that I read to get some information and guidance about running ultras.
+
+Bryon was talking about running Hardrock 100. He said that during the low points, you just need to focus on moving forward. As long as you don't stop, you are getting closer to the end. This hit me so hard, my emotions are pretty close to the surface when I run and I was legit tearing up at this point. I just kept telling myself that I just needed to keep moving. And I was able to do just that. I never stopped moving forward. So, thanks to Bryon Powell and The Ginger Runner for getting me through the low points.
 
 ### Finish
 
