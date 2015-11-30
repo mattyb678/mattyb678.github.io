@@ -13,7 +13,7 @@ In the programing world, there are so many interesting topics that I'd like to s
 
 When I was first starting to run, I felt like I'd never be able to run farther than a couple hundred feet at a time. Luckily, there is a great program called Couch to 5k. The way this program works is that it starts out easy and each workout is only slightly more difficult than the previous.
 
-We've all heard the proverbs about the journey of 1000 miles starting with a single step or eating an elephant one bite at a time. My favorite example of this sentiment was the scene from the movie "What about Bob?" where Richard Dreyfuss teaches Bill Murray to take baby steps, out of the office and onto the elevator. 
+We've all heard the proverbs about the journey of 1000 miles starting with a single step or eating an elephant one bite at a time. My favorite example of this sentiment was the scene from the movie *What about Bob?* where Richard Dreyfuss teaches Bill Murray to take baby steps, out of the office and onto the elevator. 
 
 <iframe src="//giphy.com/embed/zrQXvLOHEYnTi" width="480" height="382" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
