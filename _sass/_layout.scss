@@ -85,13 +85,24 @@ $content-padding: 30px;
 }
 
 .img_wrapper {
-    position: relative;
-    width: 100vw;
-    left: calc(-50vw + 50%);
-    img {
-      display: block;
-      margin: auto;
-      box-shadow: 0 0 7px 3px rgba(0, 0, 0, 0.4);
-      max-width: 100vw;
-    }
+  position: relative;
+  width: 100vw;
+  left: calc(-50vw + 50%);
+  img {
+    display: block;
+    margin: auto;
+    box-shadow: 0 0 7px 3px rgba(0, 0, 0, 0.4);
+    max-width: 100vw;
   }
+}
+
+.twitter-tweet {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.giphy-embed {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
