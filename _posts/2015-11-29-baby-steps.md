@@ -27,7 +27,7 @@ My first baby step has been trying to decide what I want to focus on. There are 
 
 ### What I've done
 
-Once I decided what I wanted to focus on, I started looking for resources that would help me. The next baby step I took was attending a local [d3.js meetup](http://www.meetup.com/Utah-d3-js/). This was a great way to start learning more about data visualization and one of the big tools in the data viz space.
+Once I decided what I wanted to focus on, I started looking for resources that would help me. The next baby step I took was attending a local [d3.js meetup](http://www.meetup.com/Utah-d3-js/). This has been a great way to start learning more about data visualization, and one of the big tools in the data viz space. It's also been a good way to do a little more networking, which is something I'm terrible at.
 
 Next, I found a [machine learning specialization](https://www.coursera.org/specializations/machine-learning) on Coursera. I just [finished](https://www.coursera.org/account/accomplishments/certificate/HZYJCJBKZ7QA) the intro course of the specialization and will be starting the next course this week.
 
