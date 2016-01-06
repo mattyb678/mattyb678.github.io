@@ -36,8 +36,10 @@ Goals for this year:
 : - Race day is April 29, 2016, the day after my 30th birthday
 : - I am beyond nervous for this race. I'm worried about being prepared enough. It could be a total sufferfest.
 : - You can see my training plan [here](https://docs.google.com/spreadsheets/d/1NYl15YQyZpcNGGjUpOtSjzkV7oMIMpcsglOdmtD3fq4/edit?usp=sharing)
+: - I'm sure I'll have a blog or two in the lead up to this race, in addition to a race report.
 - Complete 2 50ks
 : - As a training run for my 50 miler, I'm going to be running the [Buffalo Run 50k](http://www.buffalorunadventures.com/buffalo-run/)
+: - This race is also out on Antelope Island, but is a different course than the 50k I did in November.
 - Complete 2 Full Marathons
 : - Not sure which races I'll be running.
 
