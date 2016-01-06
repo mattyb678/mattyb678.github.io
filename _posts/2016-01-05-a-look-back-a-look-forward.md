@@ -32,7 +32,7 @@ My big accomplishments:
 Goals for this year:
 
 - Complete my first 50 miler
-: - I have officially registered for the [Salt Flats 50 miler](http://saltflats100.com/about-50/)
+: - I have officially registered for the [Salt Flats 50 miler](http://saltflats100.com/about-50/)!!!!
 : - Race day is April 29, 2016, the day after my 30th birthday
 : - I am beyond nervous for this race. I'm worried about being prepared enough. It could be a total sufferfest.
 : - You can see my training plan [here](https://docs.google.com/spreadsheets/d/1NYl15YQyZpcNGGjUpOtSjzkV7oMIMpcsglOdmtD3fq4/edit?usp=sharing)
